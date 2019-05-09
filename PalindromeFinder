@@ -1,14 +1,12 @@
 /*********************************************
-DESCRIPTION:A palindrome detector (Lab 6)
-CLASS:COSC 1420.S01
+DESCRIPTION:A palindrome detector
 AUTHOR:Salek Khan
-DATE: Feb 22, 2019
 *********************************************/
 
 #include <stdio.h>
 #include <ctype.h>
 
-int main()
+int PalindromeFinder()
 {
 	char UserString[100];
 	char ChangedString[100];
