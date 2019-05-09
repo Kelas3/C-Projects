@@ -1,9 +1,7 @@
 
 /*************************************************************
-DESCRIPTION: Operations with complex numbers (Lab 11)
-CLASS:COSC 1420.S01
+DESCRIPTION: Learning structures with comp nums
 AUTHOR:Salek Khan
-DATE: April 7,2019
 *************************************************************/
 
 #include <stdio.h>
